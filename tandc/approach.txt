@@ -1,0 +1,13 @@
+# 1. no of api for image/pdf conversion to text
+#         1. Simple text intake
+#         2. PDF/Image intake
+
+# for PDF/Image : Pymupdf library use--> text extraction --> sending to llm
+        
+# Prereq : Create table t&c content ,summary, user who requested, company, what are you buying/product
+
+# To do:
+
+#     1. Create simple text intake api
+#     2. Create api to intake files (PDF/Image)
+
